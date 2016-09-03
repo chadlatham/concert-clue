@@ -20,3 +20,28 @@ Working on a team is an invaluable experience as it provides different perspecti
 
 ##What was the biggest challenge?
 The biggest challenge we faced was correctly identifying which routes the server would need to accommodate each feature of the site and connecting the client to those routes in an efficient manner.
+
+##Images
+###Index Page:
+![Image of Index Page]
+(./public//assets/images/IndexPage.png)
+
+###Index Page Search Results:
+![Image of Index Page Search Results]
+(./public//assets/images/SearchResults.png)
+
+###Signup Modal:
+![Image of Signup Modal]
+(./public//assets/images/SignupModal.png)
+
+###Login Modal:
+![Image of Login Modal]
+(./public//assets/images/LoginModal.png)
+
+###Main Page:
+![Image of Main Page]
+(./public//assets/images/MainPage.png)
+
+###Main Page Search Results:
+![Image of Main Page Search Results]
+(./public//assets/images/MainPageSearchResults.png)
