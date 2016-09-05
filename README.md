@@ -1,4 +1,5 @@
-#Concert Clue: http://www.concertclue.com
+#Concert Clue
+###http://www.concertclue.com
 
 ##What problem does Concert Clue solve?
 Concert Clue addresses the problem that keeping track of many different artists and their shows in your area can be difficult and time consuming.
@@ -24,24 +25,24 @@ The biggest challenge we faced was correctly identifying which routes the server
 ##Images
 ###Index Page:
 ![Image of Index Page]
-(./public//assets/images/IndexPage.png)
+(./public/assets/images/IndexPage.png)
 
 ###Index Page Search Results:
 ![Image of Index Page Search Results]
-(./public//assets/images/SearchResults.png)
+(./public/assets/images/SearchResults.png)
 
 ###Signup Modal:
 ![Image of Signup Modal]
-(./public//assets/images/SignupModal.png)
+(./public/assets/images/SignupModal.png)
 
 ###Login Modal:
 ![Image of Login Modal]
-(./public//assets/images/LoginModal.png)
+(./public/assets/images/LoginModal.png)
 
 ###Main Page:
 ![Image of Main Page]
-(./public//assets/images/MainPage.png)
+(./public/assets/images/MainPage.png)
 
 ###Main Page Search Results:
 ![Image of Main Page Search Results]
-(./public//assets/images/MainPageSearchResults.png)
+(./public/assets/images/MainPageSearchResults.png)
