@@ -25,24 +25,24 @@ The biggest challenge we faced was correctly identifying which routes the server
 ##Images
 ###Index Page:
 ![Image of Index Page]
-(./public/assets/images/IndexPage.png)
+(./public/assets/images/IndexPage.jpg)
 
 ###Index Page Search Results:
 ![Image of Index Page Search Results]
-(./public/assets/images/SearchResults.png)
+(./public/assets/images/SearchResults.jpg)
 
 ###Signup Modal:
 ![Image of Signup Modal]
-(./public/assets/images/SignupModal.png)
+(./public/assets/images/SignupModal.jpg)
 
 ###Login Modal:
 ![Image of Login Modal]
-(./public/assets/images/LoginModal.png)
+(./public/assets/images/LoginModal.jpg)
 
 ###Main Page:
 ![Image of Main Page]
-(./public/assets/images/MainPage.png)
+(./public/assets/images/MainPage.jpg)
 
 ###Main Page Search Results:
 ![Image of Main Page Search Results]
-(./public/assets/images/MainPageSearchResults.png)
+(./public/assets/images/MainPageSearchResults.jpg)
