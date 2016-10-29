@@ -46,6 +46,8 @@
   },
   "devDependencies": {
     "dotenv": "^2.0.0",
+    "eslint": "^3.9.0",
+    "eslint-config-ryansobol": "^9.1.1",
     "foreman": "^1.4.1",
     "nodemon": "^1.10.2"
   }
