@@ -1,6 +1,8 @@
 #Concert Clue
 ###http://www.concertclue.com
 
+##This was a collaborative project implemented by Chad Latham, Matt Stuhring, and Patrick Richardson. We utilized issue tracking, pair programming, and agile development practices to coordinate and implement the site.
+
 ##What problem does Concert Clue solve?
 Concert Clue addresses the problem that keeping track of many different artists and their shows in your area can be difficult and time consuming.
 
